@@ -1,0 +1,15 @@
+{
+    "name": "royalcity-activation-bot",
+    "version": "1.0.0",
+    "description": "\u0628\u0648\u062a \u062a\u0641\u0639\u064a\u0644 \u0627\u062d\u062a\u0631\u0627\u0641\u064a \u0644\u0633\u064a\u0631\u0641\u0631 Royal City \u0628\u0627\u0633\u062a\u062e\u062f\u0627\u0645 Discord.js",
+    "main": "index.js",
+    "scripts": {
+        "start": "node index.js"
+    },
+    "author": "Royal City Developer",
+    "license": "MIT",
+    "dependencies": {
+        "discord.js": "^14.13.0",
+        "dotenv": "^16.3.1"
+    }
+}
